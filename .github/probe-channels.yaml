@@ -1,0 +1,6 @@
+channel_sources:
+  - file:///C:/aws-crt-cpp-prereqs,conda-forge
+aws_c_common:
+  - 0.14.4
+aws_c_sdkutils:
+  - 0.2.8

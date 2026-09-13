@@ -1,7 +1,7 @@
-name: aws-crt-cpp native Windows ARM64
+name: aws-crt-cpp 0.42.3 native Windows ARM64
 on:
   push:
-    branches: [codex/aws-crt-arm64-probe]
+    branches: [codex/aws-crt-0423-arm64-probe]
 permissions:
   contents: read
   actions: read
